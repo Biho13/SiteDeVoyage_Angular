@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+}
+h1 {
+  font-family: "Creta Round", serif;
+  font-size: 45px;
+  color: #444;
+  margin: 40px;
+}
+.point-orange {
+  color: #ce6620cc;
+  font-size: 50px;
+}
+
+#main-image {
+  height: 480px;
+  background: url("../../assets/images/main.jpg") center;
+}
+#main-image h2 {
+  font-weight: normal;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 150px 0 40px 0;
+  margin-bottom: 20px;
+}
+#main-image h2 {
+  font-size: 55px;
+  color: #444;
+}
+.strong {
+  font-weight: bold;
+}
+.button-1 {
+  width: 120px;
+  height: 50px;
+  display: block;
+  background-color: #ce6620cc;
+  color: #fff;
+  font-size: 20px;
+  margin: 0 auto;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 3px;
+}
+.button-1:hover {
+  background-color: #1a3a69;
+}

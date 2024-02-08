@@ -1,0 +1,54 @@
+#possibilities {
+  background-color: #efefef;
+  padding: 60px 0;
+  height: 270px;
+}
+#possibilities article {
+  width: 460px;
+  height: 270px;
+  float: left;
+  border-radius: 10px;
+}
+#possibilities article:first-child {
+  margin-right: 20px;
+}
+.overlay {
+  background: rgba(255, 2555, 255, 0.95);
+  height: 100%;
+  width: 190px;
+  border-radius: 10px 0 0 10px;
+  text-align: center;
+  box-sizing: border-box;
+}
+#possibilities p {
+  text-align: center;
+  margin-bottom: 20px;
+}
+small {
+  font-size: 13px;
+  font-style: italic;
+}
+article h4 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  text-align: center;
+}
+h4 {
+  padding: 20px;
+}
+.button-2 {
+  color: #fff;
+  background-color: #ce730b94;
+  padding: 6px 20px;
+  border-radius: 3px;
+}
+.button-2:hover {
+  background-color: #1a3a69;
+}
+.entete {
+  width: 940px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
